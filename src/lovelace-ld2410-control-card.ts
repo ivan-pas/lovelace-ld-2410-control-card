@@ -1630,7 +1630,7 @@ export class Ld2410CustomCard extends LitElement {
                             class="ha-icon-alert"
                             icon="mdi:alert-outline"
                           ></ha-icon>
-                          <div>this device is anavailable</div>
+                          <div>this device is unavailable</div>
                           <ha-icon
                             class="ha-icon-alert"
                             icon="mdi:alert-outline"
